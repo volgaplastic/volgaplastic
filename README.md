@@ -1,13 +1,16 @@
 ### Hi there 👋
 
+Xưởng sản xuất bao bì đóng gói từ năm 2006
 
-**volgaplastic/volgaplastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Volga VN có bề dày hoạt động từ năm 2006 chuyên về sản xuất bao bì túi nilon PE, HD và hạt nhựa. 
 
-Here are some ideas to get you started:
+Về sau, công ty mở rộng sản xuất thêm nhiều lĩnh vực mới như màng ghép, khẩu trang y tế, nâng tổng vốn đầu tư lên 32.168.000.000VNĐ. 
 
-### Xưởng sản xuất bao bì đóng gói từ năm 2006
+Đến năm 2019, công ty mở rộng thêm lĩnh vực sản xuất ép nhựa với các sản phẩm ép là chậu hoa nhựa cao cấp, phụ tùng xe hai bánh, phụ kiện ghế văn phòng, vĩ gạch nhựa lót sân vườn, nhựa gia dụng. 
 
-Volga VN có bề dày hoạt động từ năm 2006 chuyên về sản xuất bao bì túi nilon PE, HD và hạt nhựa. Về sau, công ty mở rộng sản xuất thêm nhiều lĩnh vực mới như màng ghép, khẩu trang y tế, nâng tổng vốn đầu tư lên 32.168.000.000VNĐ. Đến năm 2019, công ty mở rộng thêm lĩnh vực sản xuất ép nhựa với các sản phẩm ép là chậu hoa nhựa cao cấp, phụ tùng xe hai bánh, phụ kiện ghế văn phòng, vĩ gạch nhựa lót sân vườn, nhựa gia dụng. Hiện phân xưởng mở rộng thêm thiết kế chế tạo khuôn mẫu phục vụ cho ngành ép đùn nhựa. Với 3 nhà máy lớn có tổng diện tích 15,000 m2 hoạt động với công suất vận hành hơn 1,000 tấn/tháng là một trong những ưu điểm cốt lõi giúp Volga VN đáp ứng nhu cầu sản xuất bao bì quy mô lớn.
+Hiện phân xưởng mở rộng thêm thiết kế chế tạo khuôn mẫu phục vụ cho ngành ép đùn nhựa. 
+
+Với 3 nhà máy lớn có tổng diện tích 15,000 m2 hoạt động với công suất vận hành hơn 1,000 tấn/tháng là một trong những ưu điểm cốt lõi giúp Volga VN đáp ứng nhu cầu sản xuất bao bì quy mô lớn.
 
 Volga VN chuyên sản xuất bao bì đóng gói màng ghép như: 
 - Bao bì thực phẩm
@@ -22,9 +25,11 @@ Volga VN chuyên sản xuất bao bì đóng gói màng ghép như:
 ...
 Và còn nhiều loại bao bì đóng gói khác.
 
-Volga VN sẵn sàng hỗ trợ khách hàng trong việc vận chuyển sản phẩm bao bì. Chúng tôi có đội ngũ chuyên nghiệp và đối tác vận chuyển tin cậy để đảm bảo sản phẩm được giao hàng an toàn và đúng hẹn trên toàn quốc.
+Volga VN sẵn sàng hỗ trợ khách hàng trong việc vận chuyển sản phẩm bao bì. 
+Chúng tôi có đội ngũ chuyên nghiệp và đối tác vận chuyển tin cậy để đảm bảo sản phẩm được giao hàng an toàn và đúng hẹn trên toàn quốc.
 
-Volga VN không ngừng nỗ lực nâng cao chất lượng sản phẩm và dịch vụ của mình. Chúng tôi tuân thủ các tiêu chuẩn và quy trình quản lý chất lượng nghiêm ngặt để đảm bảo sự đáng tin cậy và sự hài lòng của khách hàng.
+Volga VN không ngừng nỗ lực nâng cao chất lượng sản phẩm và dịch vụ của mình. 
+Chúng tôi tuân thủ các tiêu chuẩn và quy trình quản lý chất lượng nghiêm ngặt để đảm bảo sự đáng tin cậy và sự hài lòng của khách hàng.
 
 Hãy liên hệ với Volga VN chúng tôi để được tư vấn bao bì phù hợp!
 
@@ -99,3 +104,4 @@ https://www.youtube.com/channel/UCtsBaCwq4CR2qS9rR-FRZ9A
 https://www.youtube.com/@volgaplasticvn
 https://www.youtube.com/@volgaplastic-baobinhua2108
 <!--
+**volgaplastic/volgaplastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
