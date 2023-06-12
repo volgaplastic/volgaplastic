@@ -4,7 +4,8 @@
 **volgaplastic/volgaplastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ```
 Here are some ideas to get you started:
-Xưởng sản xuất bao bì đóng gói từ năm 2006
+
+### Xưởng sản xuất bao bì đóng gói từ năm 2006
 
 Volga VN có bề dày hoạt động từ năm 2006 chuyên về sản xuất bao bì túi nilon PE, HD và hạt nhựa. Về sau, công ty mở rộng sản xuất thêm nhiều lĩnh vực mới như màng ghép, khẩu trang y tế, nâng tổng vốn đầu tư lên 32.168.000.000VNĐ. Đến năm 2019, công ty mở rộng thêm lĩnh vực sản xuất ép nhựa với các sản phẩm ép là chậu hoa nhựa cao cấp, phụ tùng xe hai bánh, phụ kiện ghế văn phòng, vĩ gạch nhựa lót sân vườn, nhựa gia dụng. Hiện phân xưởng mở rộng thêm thiết kế chế tạo khuôn mẫu phục vụ cho ngành ép đùn nhựa. Với 3 nhà máy lớn có tổng diện tích 15,000 m2 hoạt động với công suất vận hành hơn 1,000 tấn/tháng là một trong những ưu điểm cốt lõi giúp Volga VN đáp ứng nhu cầu sản xuất bao bì quy mô lớn.
 
